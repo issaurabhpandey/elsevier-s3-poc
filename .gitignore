@@ -1,0 +1,5 @@
+#Ignore .terraform module
+.terraform
+
+#Ignore .terraform.lock.hcl file
+.terraform.lock.hcl
